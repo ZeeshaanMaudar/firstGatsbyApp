@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: ZeeshaanMaudar/firstGatsbyApp
 
 media_folder: static/assets
 
