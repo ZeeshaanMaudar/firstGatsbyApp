@@ -8,7 +8,8 @@ collections:
     label: Posts
     folder: src/posts
     create: true
+    identifier_field: name
     fields:
-      - {label: Title, name: title, widget: string}
+      - {label: "Title", name: title, widget: string}
       - {label: Create At, name: date, widget: date}
       - {label: Post, name: body, widget: markdown}
