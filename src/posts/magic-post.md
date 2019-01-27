@@ -1,7 +1,6 @@
 ---
 title: Magic Post
 date: 2019-01-27T18:55:57.896Z
+image: /assets/zeeshaan-maudarbocus-front-end-skill-reactjs.png
 ---
-![Too large image for its own good.lol](/assets/img_0226.jpg)
-
 **Boom Shakalakaaaa!!!**
