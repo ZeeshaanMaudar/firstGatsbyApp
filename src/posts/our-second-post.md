@@ -1,7 +1,9 @@
 ---
-title: 'Our Second Blog'
+title: Our Second Blog
 date: '2019-01-27'
+image: /assets/zeeshaan-maudarbocus-front-end-skill-github.png
 ---
+![React logo](/assets/zeeshaan-maudarbocus-front-end-skill-reactjs.png "Although its gatsby")
 
 Maecenas fermentum, est ac vehicula consectetur, massa diam sodales turpis, sit amet suscipit leo turpis a sem. Phasellus efficitur lectus ut nibh imperdiet vulputate at at justo. Morbi in velit turpis. Pellentesque posuere magna at nisi scelerisque, ut dictum est gravida. Ut dignissim sed dolor nec sollicitudin. Nunc felis nunc, molestie mattis nunc non, ultrices mattis purus. Donec quis lacus in est bibendum malesuada. Sed eget felis sed sem tincidunt aliquet. Nullam luctus lacus urna, vel eleifend eros egestas eu. Pellentesque sit amet felis dictum, eleifend nisi in, ornare erat. Donec aliquam a eros nec porta. <!-- end -->
 
