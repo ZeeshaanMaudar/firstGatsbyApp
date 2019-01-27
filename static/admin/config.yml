@@ -13,4 +13,5 @@ collections:
     fields:
       - {label: "Title", name: title, widget: string}
       - {label: Create At, name: date, widget: date}
+      - {label: Upload Image, name: image, widget: image}
       - {label: Post, name: body, widget: markdown}
